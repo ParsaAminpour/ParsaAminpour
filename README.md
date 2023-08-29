@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on (recently started) [https://medium.com/@ParsaAminpour](https://medium.com/@ParsaAminpour)
 
-- 💬 Ask me about **Solidity, Python, Brownie, Yul, TypeScrip, Djangot**
+- 💬 Ask me about **Solidity, Python, Brownie, Yul, TypeScrip, Django**
 
 - 📫 How to reach me **parsa.aminpour@gmail.com**
 
