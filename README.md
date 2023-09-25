@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parsa Aminpour</h1>
 <h3 align="center">A passionate web3 and Django developer</h3>
 
-- 🔭 I’m currently working on **Burn swap**
+- 🔭 I’m currently working on **Aviato Swap**
 
 - 🌱 I’m currently learning **Data analysis**
 
