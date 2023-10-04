@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data analysis**
 
-- 👯 I’m looking to collaborate on [Tornado Cache](https://github.com/tornadocash)
-
 - 📝 I regularly write articles on (recently started) [https://medium.com/@ParsaAminpour](https://medium.com/@ParsaAminpour)
 
 - 💬 Ask me about **Solidity, Python, Brownie, Yul, TypeScrip, Django**
