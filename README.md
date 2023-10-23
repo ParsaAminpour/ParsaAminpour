@@ -24,8 +24,8 @@ Hi, I'm Parsa 😉, 18 years old **Developer** and **Programmer** 👨🏻‍�
 ----
 
 * 🔭 I’m currently working on **Smart Contracts Architecture**.
-* 🌱 I’m currently learning Machine Learning.🤣
-* 🤔 I hope to be proficient in Algorithms.🐧
+* 🌱 I’m currently learning Machine Learning.
+* 🤔 I hope to be proficient in Algorithms.
 * 💬 Ask me about anything in Blockchain.
 * 📫 Please contact me via parsa.aminpour@gmail.com
 
