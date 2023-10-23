@@ -13,7 +13,7 @@ Hi, I'm Parsa 😉, 18 years old **Developer** and **Programmer** 👨🏻‍�
 </br>
 </br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 
 **Skills :** Python, Solidity, TypeScript
