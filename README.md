@@ -1,9 +1,9 @@
 <h1 align="center">PARSA AMINPOUR</h1>
-<h3 align="center">Blockchain Developer<span color="blue"> & </span> Machine Learning Enthusiast <span color="blue"> & </span> </h3>
+<h3 align="center">Blockchain Developer<span color="blue"> & </span> Machine Learning Enthusiast <span color="blue"> </span> </h3>
 
 
 
-### Hola, World! 👋
+### Hello, World! 👋
 
 > Talk is cheap. Show me the code.
 >
@@ -33,7 +33,7 @@ Hi, I'm Parsa 😉, 18 years old **Developer** and **Programmer** 👨🏻‍�
 
 <div align=center>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayrakhanomrime/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParsaAminpour)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](parsa.aminpour@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]
@@ -41,23 +41,6 @@ Hi, I'm Parsa 😉, 18 years old **Developer** and **Programmer** 👨🏻‍�
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xTuringx)
 [![Google_Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]
 </div>
-
-
-
------
-
-
- <br>
- <br>
- <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&layout=compact&hide=html&theme=dracula"/>
- 
-  
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=H-K-R&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </P><br>
-  
- 
- 
  
 ----------------
 
