@@ -9,7 +9,7 @@
 >
 > -Santosh Kalwar
 
-Hi, I'm Parsa 😉, 18 years old **Developer** and **Programmer** 👨🏻‍💻. I'm an open-source professional, and I like to develop in Solidity. I am passionate about **Machine Learning**, **Blockchain**, **Algorithms**, and **Smart Contract Auditing**. Currently, I'm looking to collaborate on open-source projects. Besides programming,</br>
+Hi, I'm Parsa 😉, I'm an open-source professional, and I like to develop in Solidity. I am passionate about **Machine Learning**, **Blockchain**, **Algorithms**, and **Smart Contract Auditing**. Currently, I'm looking to collaborate on open-source projects. Besides programming,</br>
 </br>
 </br>
 
