@@ -3,11 +3,11 @@
 
 
 
-# 🧠 Forest Warden
+# 🥷 Forest Warden
 
 **`Blockchain Developer (Architecture/Security)`**
 
-I'm an indie Web3 developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to building real-life web3 projects with code.
+I'm an indie Web3 developer and Security researcher building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to building real-life web3 projects with code.
 </br>
 </br>
 
@@ -21,7 +21,7 @@ I'm an indie Web3 developer and content creator building my version of the digit
 * 💬 Ask me about anything in Blockchain.
 * 📫 Please contact me via parsa.aminpour@gmail.com
 
-<hr>
+
 
 <h3 align="left">⛓️ Blockchains & Tools</h3>
 <p align="left">
