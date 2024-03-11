@@ -15,7 +15,7 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 
 **Current Status Quo:**
 
-* 🔭 I’m currently working on **Layer2 Architecture**.
+* 🔭 I’m currently working on **UniswapV3 Architecture**.
 * 🌱 I’m currently learning Machine Learning.
 * 🤔 I hope to be proficient in Security.
 * 💬 Ask me about anything in Blockchain.
@@ -53,6 +53,7 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
 <br> <br>
 
 <h2 align="left">Connect With Me:</h2>
