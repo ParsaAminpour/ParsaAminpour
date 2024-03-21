@@ -47,6 +47,7 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Slither" width="35px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/b31b8bfc-217a-4122-be58-e87d1043c382" />
+<img align="left" alt="Certora" width="57px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/d4ddfa0a-007b-4723-8470-2045737b0997" />
 
 
 <br>
@@ -59,7 +60,6 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
 <br> <br>
-
 <h2 align="left">Connect With Me:</h2>
 
 <div align=center>
