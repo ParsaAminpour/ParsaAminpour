@@ -24,13 +24,15 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 
 
 <h3 align="left">⛓️ Blockchains & Tools</h3>
-<p align="left">
-    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a>
-    <a href="https://chain.link/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white"
-    alt="Chainlink"/> </a>
-<p align="left">
+<img align="left" alt="Ethereum" width="21px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/f8f6eb08-dc69-4108-b57a-53185fa7e2cf" />
+<img align="left" alt="Chainlink" width="35px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/289b109b-c36e-409d-89a8-bf537a76c8b5" />
+<img align="left" alt="Optimism" width="34px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/1ad0f798-2d0d-4e86-ac89-0bebfdf0b26a" />
+<img align="left" alt="zkSync" width="34px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/60154451-536e-4c1f-bd1a-6f6a9642b71b" />
+<img align="left" alt="Arbitrum" width="34px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/03831c22-d3de-403f-aae1-2414c4f40e33" />
 
 </p>
+
+<br /> <br />
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg"/>
