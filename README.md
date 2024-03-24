@@ -39,7 +39,7 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 <img align="left" alt="Huff" width="45px" style="padding-right:-20px; margin-left:-20px; margin-right: -20px" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/f5147c3d-ef0b-4609-82f7-85ee60b9e5e9" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:0px; margin-left: -20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:0px; margin-left: -20px" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/d537ce50-1c3f-4fcf-a0d1-61490be0b825" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
