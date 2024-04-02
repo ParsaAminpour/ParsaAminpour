@@ -42,7 +42,6 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 <img align="left" alt="Python" width="30px" style="padding-right:0px; margin-left: -20px" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/d537ce50-1c3f-4fcf-a0d1-61490be0b825" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
 <img align="left" alt="Hardhat" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" />
 <img align="left" alt="Foundry" width="32px" style="padding-right:0px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/7cf95260-b862-4b89-b60a-2bd76769674b" />
