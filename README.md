@@ -28,7 +28,7 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 <img align="left" alt="Chainlink" width="35px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/289b109b-c36e-409d-89a8-bf537a76c8b5" />
 <img align="left" alt="Optimism" width="34px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/1ad0f798-2d0d-4e86-ac89-0bebfdf0b26a" />
 <img align="left" alt="zkSync" width="34px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/60154451-536e-4c1f-bd1a-6f6a9642b71b" />
-<img align="left" alt="Arbitrum" width="34px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/03831c22-d3de-403f-aae1-2414c4f40e33" />
+<img align="left" alt="Arbitrum" width="34px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/85841ad7-a71b-4302-b74b-900a96d6aaaa" />
 <img align="left" alt="Base" width="34px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/030d69ae-f21d-4050-9b50-234bd9dccca7" />
 
 
