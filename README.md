@@ -1,11 +1,11 @@
 <h1 align="center">PARSA AMINPOUR</h1>
-<h3 align="center">Blockchain Developer<span color="blue"> & </span> Machine Learning Enthusiast <span color="blue"> </span> </h3>
+<h3 align="center">Blockchain Enigneer<span color="blue"> & </span> Security Researcher <span color="blue"> </span> </h3>
 
 
 
 # 🥷 Forest Warden
 
-**`Blockchain Developer (Architecture/Security)`**
+**`Blockchain Engineer (Architecture/Security)`**
 
 I'm an indie Web3 developer and Security researcher building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to building real-life web3 projects with code.
 </br>
@@ -15,8 +15,7 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 
 **Current Status Quo:**
 
-* 🔭 I’m currently working on **UniswapV3 Architecture**.
-* 🌱 I’m currently learning Machine Learning.
+* 🔭 I’m currently focusing on **Moand and TON**.
 * 🤔 I hope to be proficient in Security.
 * 💬 Ask me about anything in Blockchain.
 * 📫 Please contact me via parsa.aminpour@gmail.com
