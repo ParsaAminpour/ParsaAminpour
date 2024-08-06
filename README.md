@@ -15,7 +15,7 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 
 **Current Status Quo:**
 
-* 🔭 I’m currently focusing on **Moand and TON**.
+* 🔭 I’m currently focusing on **Eclipse**.
 * 🤔 I hope to be proficient in Security.
 * 💬 Ask me about anything in Blockchain.
 * 📫 Please contact me via parsa.aminpour@gmail.com
