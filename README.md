@@ -39,7 +39,8 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 <img align="left" alt="Huff" width="45px" style="padding-right:-20px; margin-left:-20px; margin-right: -20px" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/f5147c3d-ef0b-4609-82f7-85ee60b9e5e9" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:0px; margin-left: -20px" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/d537ce50-1c3f-4fcf-a0d1-61490be0b825" />
+<img align="left" alt="Python" width="30px" style="padding-right:0px" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/d537ce50-1c3f-4fcf-a0d1-61490be0b825" />
+<img align="left" alt="Go" width="28px" style="padding-right:10px; height:30px;" src="https://github.com/user-attachments/assets/07545f2d-f0c3-4609-9dfc-015e8880d16e" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
@@ -50,7 +51,6 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 <img align="left" alt="Actix" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/e261d5e3-256a-423e-8a57-b844bea86d84" />
 <img align="left" alt="Slither" width="35px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/b31b8bfc-217a-4122-be58-e87d1043c382" />
 <img align="left" alt="Certora" width="57px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/d4ddfa0a-007b-4723-8470-2045737b0997" />
-
 
 <br>
 
