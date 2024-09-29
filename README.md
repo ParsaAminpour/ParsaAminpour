@@ -35,8 +35,8 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 <br /> <br />
 
 ### 🧰 Languages and Tools
-<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg"/>
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/2f4fca1a-8f37-470b-a2d8-7f4f61261afb"/>
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/19f201d5-735b-4813-b787-f35fb9123909" />
 <img align="left" alt="Huff" width="45px" style="padding-right:-20px; margin-left:-20px; margin-right: -20px" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/f5147c3d-ef0b-4609-82f7-85ee60b9e5e9" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:0px" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/d537ce50-1c3f-4fcf-a0d1-61490be0b825" />
