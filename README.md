@@ -25,10 +25,11 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 <h3 align="left">⛓️ Blockchains & Tools</h3>
 <img align="left" alt="Ethereum" width="21px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/f8f6eb08-dc69-4108-b57a-53185fa7e2cf" />
 <img align="left" alt="Chainlink" width="35px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/289b109b-c36e-409d-89a8-bf537a76c8b5" />
-<img align="left" alt="Optimism" width="34px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/1ad0f798-2d0d-4e86-ac89-0bebfdf0b26a" />
 <img align="left" alt="zkSync" width="34px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/60154451-536e-4c1f-bd1a-6f6a9642b71b" />
+<img align="left" alt="TON" width="34px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/eff9e307-532d-4414-a234-ddbdf8658f3c" />
 <img align="left" alt="Arbitrum" width="34px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/85841ad7-a71b-4302-b74b-900a96d6aaaa" />
 <img align="left" alt="Solana" width="34px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/280335ac-e3cf-49e2-ad6b-a65c165ec542" />
+
 
 </p>
 
@@ -52,7 +53,8 @@ I'm an indie Web3 developer and Security researcher building my version of the d
 <img align="left" alt="Slither" width="35px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/b31b8bfc-217a-4122-be58-e87d1043c382" />
 <img align="left" alt="Certora" width="57px" style="padding-right:10px;" src="https://github.com/ParsaAminpour/ParsaAminpour/assets/77713904/d4ddfa0a-007b-4723-8470-2045737b0997" />
 
-<br>
+<br />
+
 
 ### 🧠 Machine Learning side-skills
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
